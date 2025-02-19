@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Jéssica Martins de Jesus
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesCat16&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&layout=donut&theme=radical)
+<br>
+<!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=My%20%Quote&author=Jess)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!--
 **JesCat16/JesCat16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
