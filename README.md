@@ -6,10 +6,10 @@
 
 <details>
 <summary> 👩‍💻 More about me</summary>
-  - I'm 21 years old, currently living in São Paulo, Brazil!<br>
-  - My English level is Advanced.<br>
-  - I have experience in Python, C#, SQL Server, Docker, Postgres and RabbitMQ to name a few.<br>
-  - In my spare time I like to play games, watch shows, listen to music and recently been loving to make games in Unity! 
+ - I'm 21 years old, currently living in São Paulo, Brazil!<br>
+ - My English level is Advanced.<br>
+ - I have experience in Python, C#, SQL Server, Docker, Postgres and RabbitMQ to name a few.<br>
+ - In my spare time I like to play games, watch shows, listen to music and recently been loving to make games in Unity! 
 </details>
 
 ### Languages I use recently:
