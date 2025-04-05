@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
+# Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"> My name is Jéssica! I'm a Computer Science student at FEI!
+<img aling = "center" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 
-## Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"> My name is Jéssica! I'm a Computer Science student at FEI!
 - 📖 I’m currently working on my TCC
 - 🌱 I’m currently learning Unity, AWS and ZeroMQ
 - 🔭 I'm looking for a new job, my dream is to be a Back-End Developer! 
