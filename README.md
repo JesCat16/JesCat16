@@ -21,4 +21,4 @@
 * [Python - API para obtenção de dados IoT e monitoramento de Server](https://github.com/JesCat16/exame-backend-dtlabs-2025) -> *Status*: Concluído
 * [C# - API de cadastro de Pessoas Jurídicas](https://github.com/JesCat16/aplicacao_para_cadastro_de_pessoaJuridica) -> *Status*: Em Desenvolvimento
 ### 📫 How to reach me
-<a href="https://www.linkedin.com/in/jéssica-jesus-8b4889238" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jéssica-jesus-8b4889238" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="60" width="60" /></a>
