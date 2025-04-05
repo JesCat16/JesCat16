@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesCat16&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&layout=donut&theme=radical)
 <br>
 ### Portfolio
-* [Python - API para obtenção de dados IoT e monitoramento de Server](https://github.com/JesCat16/exame-backend-dtlabs-2025) *Status*: Concluído
-* [C# - API de cadastro de Pessoas Jurídicas](https://github.com/JesCat16/aplicacao_para_cadastro_de_pessoaJuridica) *Status*: Em Desenvolvimento
+* [Python - API para obtenção de dados IoT e monitoramento de Server](https://github.com/JesCat16/exame-backend-dtlabs-2025) -> *Status*: Concluído
+* [C# - API de cadastro de Pessoas Jurídicas](https://github.com/JesCat16/aplicacao_para_cadastro_de_pessoaJuridica) -> *Status*: Em Desenvolvimento
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/jéssica-jesus-8b4889238" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="" height="40" width="40" /></a>
