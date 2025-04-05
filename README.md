@@ -1,5 +1,8 @@
 # Hello world!! 
-## Hi there 👋 My name is Jéssica! I'm a Computer Science studant at FEI!
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="500" >
+<br><br>
+
+## Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> My name is Jéssica! I'm a Computer Science student at FEI!
 - 📖 I’m currently working on my TCC
 - 🌱 I’m currently learning Unity, AWS and ZeroMQ
 - 🔭 I'm looking for a new job, my dream is to be a Back-End Developer! 
