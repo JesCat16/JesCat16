@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jescat16&show_icons=true&locale=en&theme=radical" alt="jescat16" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jescat16&theme=radical" alt="jescat16" /></p>
-
 <br>
 
 ## Portfolio:
