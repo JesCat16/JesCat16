@@ -3,7 +3,6 @@
 
 - 📖 I’m currently working on my TCC
 - 🌱 I’m currently learning PySpark e Selenium
-- 🔭 I'm looking for a new job, my dream is to be a Back-End Developer! 
 <br>
 <details>
 <summary> <img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="40" /> More about me</summary>
