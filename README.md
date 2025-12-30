@@ -13,13 +13,17 @@
   </ul>
 </details>
 
-<!-- ## Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jescat16&show_icons=true&locale=en&layout=compact&theme=radical" alt="jescat16" /></p>
+## Stats:
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=jescat16&show_icons=true&locale=en&theme=radical" alt="jescat16" /></p>
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=jescat16&show_icons=true&theme=radical" height="200"/>
+  
+</a>
 
-<br>
--->
+<a href="https://github.com/bloedboemmel">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=jescat16&theme=radical"  height="200"/>
+</a>
+
 
 ## Portfolio:
 * [Python - API para obtenção de dados IoT e monitoramento de Server](https://github.com/JesCat16/exame-backend-dtlabs-2025) -> *Status*: Concluído
